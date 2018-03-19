@@ -1,0 +1,9 @@
+table, td, th {
+	border: 1px solid black
+}
+.noborder {
+	border: 0px solid black
+}
+table {
+	text-align: center
+}
